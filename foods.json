@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Banana",
+    "calorie": "77 Calorie",
+    "carbohydrate": "Carbohydrate: 23 grams",
+    "protein": "Protein: 1.1 grams",
+    "fatcontent": "Fat Content: 0.3 grams",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+  },
+  {
+    "name": "Oat",
+    "calorie": "351 Calorie",
+    "carbohydrate": "Carbohydrate: 57.3 grams",
+    "protein": "Protein: 11.3 grams",
+    "fatcontent": "Fat Content: 5.8 grams",
+    "image": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/yulaf.png"
+  },
+  {
+    "name": "Walnut",
+    "calorie": "654 Calorie",
+    "carbohydrate": "Carbohydrate: 13.7 grams",
+    "protein": "Protein: 15.2 grams",
+    "fatcontent": "Fat Content: 65.2 grams",
+    "image": "https://raw.githubusercontent.com/hcemmm/JSONDataset/main/walnut.png?token=GHSAT0AAAAAABPXDJNRBFIS4ETFLE3VLYIEYPST2NQ"
+  },
+  {
+    "name": "Haricot Bean",
+    "calorie": "155 Kilokalori",
+    "carbohydrate": "Carbohydrate: 22 grams",
+    "protein": "Protein: 19 grams",
+    "fatcontent": "Fat Content: 6 grams",
+    "image": "https://raw.githubusercontent.com/hcemmm/JSONDataset/main/haricotbean.png?token=GHSAT0AAAAAABPXDJNRSWJ6LFU3ZRLTGUUYYPST2UA"
+  },
+  {
+    "name": "Potato",
+    "calorie": "77 Kilokalori",
+    "carbohydrate": "Carbohydrate: 17 grams",
+    "protein": "Protein: 2 grams",
+    "fatcontent": "Fat Content: 0.1 grams",
+    "image": "https://raw.githubusercontent.com/hcemmm/JSONDataset/main/potato.png?token=GHSAT0AAAAAABPXDJNRGNAGY5NBLT4I4UZWYPST2PQ"
+  },
+  {
+    "name": "Chicken Breast",
+    "calorie": "120 Calorie",
+    "carbohydrate": "Carbohydrate: 0 grams",
+    "protein": "Protein: 22.5 grams",
+    "fatcontent": "Fat Content: 2.6 grams",
+    "image": "https://raw.githubusercontent.com/hcemmm/JSONDataset/main/chickenbreast.png?token=GHSAT0AAAAAABPXDJNRTJG245CSJGQFWLKCYPST3TQ"
+  },
+  {
+    "name": "Green Lentils",
+    "calorie": "116 Calorie",
+    "carbohydrate": "Carbohydrate: 20 grams",
+    "protein": "Protein: 9 grams",
+    "fatcontent": "Fat Content: 0.4 grams",
+    "image": "https://raw.githubusercontent.com/hcemmm/JSONDataset/main/greenlentils.png?token=GHSAT0AAAAAABPXDJNRNM7TE7QVCTVFFFSKYPST3SQ"
+  },
+  {
+    "name": "Yogurt",
+    "calorie": "57 Calorie",
+    "carbohydrate": "Carbohydrate: 4.5 grams",
+    "protein": "Protein: 3 grams",
+    "fatcontent": "Fat Content: 3 grams",
+    "image": "https://raw.githubusercontent.com/hcemmm/JSONDataset/main/yogurt.png?token=GHSAT0AAAAAABPXDJNQBHXSXYNEGQDRL5UEYPST2LQ"
+  },
+  {
+    "name": "Almond",
+    "calorie": "570 Calorie",
+    "carbohydrate": "Carbohydrate: 3.7 grams",
+    "protein": "Protein: 18.7 grams",
+    "fatcontent": "Fat Content: 54.1 grams",
+    "image": "https://raw.githubusercontent.com/hcemmm/JSONDataset/main/almond.png?token=GHSAT0AAAAAABPXDJNQW5UN46WYQEGYNXM4YPST3XA"
+  },
+  {
+    "name": "Apple",
+    "calorie": "47 Calorie",
+    "carbohydrate": "Carbohydrate: 12.4 grams",
+    "protein": "Protein: 0.2 grams",
+    "fatcontent": "Fat Content: 0.1 grams",
+    "image": "https://raw.githubusercontent.com/hcemmm/JSONDataset/main/apple.png?token=GHSAT0AAAAAABPXDJNRFDYZZQ246PJVJ636YPST3VQ"
+  }
+]
