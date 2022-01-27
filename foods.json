@@ -25,10 +25,10 @@
   },
   {
     "name": "Haricot Bean",
-    "calorie": "155 Calorie",
-    "carbohydrate": "Carbohydrate: 22 grams",
-    "protein": "Protein: 19 grams",
-    "fatcontent": "Fat Content: 6 grams",
+    "calorie": "332 Calorie",
+    "carbohydrate": "Carbohydrate: 60 grams",
+    "protein": "Protein: 24 grams",
+    "fatcontent": "Fat Content: 0.8 grams",
     "image": "https://raw.githubusercontent.com/hcemmm/JSONDataset/main/haricotbean.png?token=GHSAT0AAAAAABPXDJNRSWJ6LFU3ZRLTGUUYYPST2UA"
   },
   {
@@ -41,10 +41,10 @@
   },
   {
     "name": "Chicken Breast",
-    "calorie": "120 Calorie",
+    "calorie": "239 Calorie",
     "carbohydrate": "Carbohydrate: 0 grams",
-    "protein": "Protein: 22.5 grams",
-    "fatcontent": "Fat Content: 2.6 grams",
+    "protein": "Protein: 27 grams",
+    "fatcontent": "Fat Content: 3.8 grams",
     "image": "https://raw.githubusercontent.com/hcemmm/JSONDataset/main/chickenbreast.png?token=GHSAT0AAAAAABPXDJNRTJG245CSJGQFWLKCYPST3TQ"
   },
   {
@@ -57,10 +57,10 @@
   },
   {
     "name": "Yogurt",
-    "calorie": "57 Calorie",
-    "carbohydrate": "Carbohydrate: 4.5 grams",
-    "protein": "Protein: 3 grams",
-    "fatcontent": "Fat Content: 3 grams",
+    "calorie": "58 Calorie",
+    "carbohydrate": "Carbohydrate: 3.7 grams",
+    "protein": "Protein: 10 grams",
+    "fatcontent": "Fat Content: 0.4 grams",
     "image": "https://raw.githubusercontent.com/hcemmm/JSONDataset/main/yogurt.png?token=GHSAT0AAAAAABPXDJNQBHXSXYNEGQDRL5UEYPST2LQ"
   },
   {
@@ -73,10 +73,10 @@
   },
   {
     "name": "Apple",
-    "calorie": "47 Calorie",
-    "carbohydrate": "Carbohydrate: 12.4 grams",
-    "protein": "Protein: 0.2 grams",
-    "fatcontent": "Fat Content: 0.1 grams",
+    "calorie": "52 Calorie",
+    "carbohydrate": "Carbohydrate: 14.1 grams",
+    "protein": "Protein: 0.3 grams",
+    "fatcontent": "Fat Content: 0.2 grams",
     "image": "https://raw.githubusercontent.com/hcemmm/JSONDataset/main/apple.png?token=GHSAT0AAAAAABPXDJNRFDYZZQ246PJVJ636YPST3VQ"
   }
 ]
